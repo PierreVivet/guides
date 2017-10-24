@@ -27,3 +27,5 @@ You can check common examples of color picker tools below.
 * <a href='http://www.colorzilla.com/' target='_blank' rel='nofollow'>ColorZilla browser extension</a>
 
 * <a href='https://atom.io/packages/color-picker' target='_blank' rel='nofollow'>Color picker package for Atom</a>
+
+* <a href='colorbrewer2.org/' target='_blank' rel='nofollow'>ColorBrewer designed for mapping color choices</a>
